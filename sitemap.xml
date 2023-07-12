@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/wiki/hello-world/</loc>
+    <loc>http://hexogithub.site/wiki/hello-world/</loc>
     
     <lastmod>2023-07-12</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://hexogithub.site/tags/index.html</loc>
     
     <lastmod>2023-07-12</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://hexogithub.site/categories/index.html</loc>
     
     <lastmod>2023-07-12</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>http://hexogithub.site/about/index.html</loc>
     
     <lastmod>2023-07-12</lastmod>
     
@@ -39,7 +39,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://hexogithub.site/</loc>
     <lastmod>2023-07-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -49,7 +49,7 @@
 
   
   <url>
-    <loc>http://example.com/categories/111/</loc>
+    <loc>http://hexogithub.site/categories/111/</loc>
     <lastmod>2023-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

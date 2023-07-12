@@ -3,11 +3,11 @@
   <title>Learning AI</title>
   
   <subtitle>学习最先进的AI技术</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://hexogithub.site/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://hexogithub.site/"/>
   <updated>2023-07-12T15:04:16.475Z</updated>
-  <id>http://example.com/</id>
+  <id>http://hexogithub.site/</id>
   
   <author>
     <name>harteyang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/wiki/hello-world/"/>
-    <id>http://example.com/wiki/hello-world/</id>
+    <link href="http://hexogithub.site/wiki/hello-world/"/>
+    <id>http://hexogithub.site/wiki/hello-world/</id>
     <published>2023-07-12T14:39:49.271Z</published>
     <updated>2023-07-12T15:04:16.475Z</updated>
     
@@ -33,7 +33,7 @@
     
     
     
-    <category term="111" scheme="http://example.com/categories/111/"/>
+    <category term="111" scheme="http://hexogithub.site/categories/111/"/>
     
     
   </entry>
