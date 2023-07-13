@@ -2,9 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://hexogithub.site/wiki/hello-world/</loc>
+    <loc>http://hexogithub.site/wiki/%E6%8F%90%E9%97%AE%E7%9A%84%E8%89%BA%E6%9C%AF%20for%20CHATGPT/</loc>
     
-    <lastmod>2023-07-12</lastmod>
+    <lastmod>2023-07-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hexogithub.site/wiki/index/</loc>
+    
+    <lastmod>2023-07-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hexogithub.site/wiki/%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B/</loc>
+    
+    <lastmod>2023-07-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hexogithub.site/wiki/%E4%BD%BF%E7%94%A8ChatGPT%E5%89%8D%E8%A6%81%E5%8A%A1%E5%BF%85%E7%90%86%E8%A7%A3/</loc>
+    
+    <lastmod>2023-07-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hexogithub.site/wiki/%E5%AD%A6%E4%B9%A0Prompt%EF%BC%88%E6%8F%90%E9%97%AE%EF%BC%89/</loc>
+    
+    <lastmod>2023-07-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,15 +48,6 @@
   
   <url>
     <loc>http://hexogithub.site/tags/index.html</loc>
-    
-    <lastmod>2023-07-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://hexogithub.site/about/index.html</loc>
     
     <lastmod>2023-07-12</lastmod>
     
@@ -37,10 +64,19 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>http://hexogithub.site/about/index.html</loc>
+    
+    <lastmod>2023-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>http://hexogithub.site/</loc>
-    <lastmod>2023-07-12</lastmod>
+    <lastmod>2023-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -49,8 +85,8 @@
 
   
   <url>
-    <loc>http://hexogithub.site/categories/111/</loc>
-    <lastmod>2023-07-12</lastmod>
+    <loc>http://hexogithub.site/categories/ChatGPT/</loc>
+    <lastmod>2023-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
