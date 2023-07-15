@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://hexogithub.site/about/index.html</loc>
+    <loc>http://hexogithub.site/wiki/ChatGPT%E6%87%92%E4%BA%BA%E6%8F%90%E7%A4%BA%E8%AF%8D/</loc>
     
     <lastmod>2023-07-15</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>http://hexogithub.site/wiki/ChatGPT%E6%87%92%E4%BA%BA%E6%8F%90%E7%A4%BA%E8%AF%8D/</loc>
+    <loc>http://hexogithub.site/about/index.html</loc>
     
-    <lastmod>2023-07-14</lastmod>
+    <lastmod>2023-07-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
