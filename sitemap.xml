@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hexogithub.site/wiki/index/</loc>
+    
+    <lastmod>2023-07-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://hexogithub.site/wiki/ChatGPT%20%E6%8E%A2%E7%B4%A2%EF%BC%9ACode%20Interpreter%20%E9%AB%98%E7%BA%A7%E6%8C%87%E5%8D%97/</loc>
     
     <lastmod>2023-07-16</lastmod>
@@ -48,15 +57,6 @@
   
   <url>
     <loc>http://hexogithub.site/wiki/%E4%BD%BF%E7%94%A8ChatGPT%E5%89%8D%E8%A6%81%E5%8A%A1%E5%BF%85%E7%90%86%E8%A7%A3/</loc>
-    
-    <lastmod>2023-07-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://hexogithub.site/wiki/index/</loc>
     
     <lastmod>2023-07-16</lastmod>
     
