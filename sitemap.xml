@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hexogithub.site/wiki/index/</loc>
+    
+    <lastmod>2023-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://hexogithub.site/wiki/%E5%AE%9A%E5%88%B6%E4%BD%A0%E7%9A%84%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%81%8B%E7%88%B1%E6%B8%B8%E6%88%8F/</loc>
     
     <lastmod>2023-07-20</lastmod>
@@ -95,15 +104,6 @@
     <loc>http://hexogithub.site/wiki/%E5%AD%A6%E4%B9%A0Prompt%EF%BC%88%E6%8F%90%E9%97%AE%EF%BC%89/</loc>
     
     <lastmod>2023-07-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://hexogithub.site/wiki/index/</loc>
-    
-    <lastmod>2023-07-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
