@@ -101,6 +101,15 @@
   </url>
   
   <url>
+    <loc>http://hexogithub.site/wiki/index/</loc>
+    
+    <lastmod>2023-07-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://hexogithub.site/wiki/ChatGPT%20%E6%8E%A2%E7%B4%A2%EF%BC%9ACode%20Interpreter%20%E9%AB%98%E7%BA%A7%E6%8C%87%E5%8D%97/</loc>
     
     <lastmod>2023-07-16</lastmod>
