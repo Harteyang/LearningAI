@@ -2,9 +2,99 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://hexogithub.site/wiki/index/</loc>
+    <loc>http://hexogithub.site/wiki/%E5%9F%B9%E8%AE%AD%E5%8F%91%E5%B1%95%E6%A1%88%E4%BE%8B/</loc>
     
-    <lastmod>2023-07-16</lastmod>
+    <lastmod>2023-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hexogithub.site/wiki/%E4%BC%81%E4%B8%9A%E6%96%87%E5%8C%96%E7%B1%BB%E6%A1%88%E4%BE%8B/</loc>
+    
+    <lastmod>2023-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hexogithub.site/wiki/%E8%81%8C%E5%9C%BA%E5%B7%A5%E4%BD%9C%E6%8F%90%E5%8D%87%E7%B1%BB%E6%A1%88%E4%BE%8B/</loc>
+    
+    <lastmod>2023-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hexogithub.site/wiki/%E6%8B%9B%E8%81%98%E9%85%8D%E7%BD%AE%E7%B1%BB%E6%A1%88%E4%BE%8B/</loc>
+    
+    <lastmod>2023-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hexogithub.site/wiki/%E7%BB%84%E7%BB%87%E5%8F%91%E5%B1%95%E6%A1%88%E4%BE%8B/</loc>
+    
+    <lastmod>2023-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hexogithub.site/wiki/%E5%91%98%E5%B7%A5%E5%85%B3%E7%B3%BB%E7%B1%BB%E6%A1%88%E4%BE%8B/</loc>
+    
+    <lastmod>2023-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hexogithub.site/wiki/%E7%BB%A9%E6%95%88%E7%AE%A1%E7%90%86%E7%B1%BB%E6%A1%88%E4%BE%8B/</loc>
+    
+    <lastmod>2023-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hexogithub.site/wiki/%E5%AE%9A%E5%88%B6%E4%BD%A0%E7%9A%84%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%81%8B%E7%88%B1%E6%B8%B8%E6%88%8F/</loc>
+    
+    <lastmod>2023-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hexogithub.site/wiki/%E6%8F%90%E5%8D%87%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E6%95%88%E7%8E%87/</loc>
+    
+    <lastmod>2023-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hexogithub.site/wiki/%E5%AD%A6%E4%B9%A0Prompt%EF%BC%88%E6%8F%90%E9%97%AE%EF%BC%89/</loc>
+    
+    <lastmod>2023-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hexogithub.site/wiki/%E8%96%AA%E9%85%AC%E7%A6%8F%E5%88%A9%E7%B1%BB%E6%A1%88%E4%BE%8B/</loc>
+    
+    <lastmod>2023-07-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -21,15 +111,6 @@
   
   <url>
     <loc>http://hexogithub.site/wiki/%E6%8F%90%E9%97%AE%E7%9A%84%E8%89%BA%E6%9C%AFforChatGPT/</loc>
-    
-    <lastmod>2023-07-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://hexogithub.site/wiki/%E5%AD%A6%E4%B9%A0Prompt%EF%BC%88%E6%8F%90%E9%97%AE%EF%BC%89/</loc>
     
     <lastmod>2023-07-16</lastmod>
     
@@ -184,7 +265,7 @@
 
   <url>
     <loc>http://hexogithub.site/</loc>
-    <lastmod>2023-07-16</lastmod>
+    <lastmod>2023-07-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -194,14 +275,21 @@
   
   <url>
     <loc>http://hexogithub.site/categories/ChatGPT-Plus/</loc>
-    <lastmod>2023-07-16</lastmod>
+    <lastmod>2023-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://hexogithub.site/categories/ChatGPT/</loc>
-    <lastmod>2023-07-16</lastmod>
+    <lastmod>2023-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://hexogithub.site/categories/HR/</loc>
+    <lastmod>2023-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
