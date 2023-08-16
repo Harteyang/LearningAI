@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hexogithub.site/wiki/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%B0%8F%E7%B1%B3%E5%AE%A2%E6%9C%8D/</loc>
+    
+    <lastmod>2023-08-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://hexogithub.site/wiki/index/</loc>
     
     <lastmod>2023-07-20</lastmod>
@@ -254,7 +263,7 @@
   </url>
   
   <url>
-    <loc>http://hexogithub.site/tags/index.html</loc>
+    <loc>http://hexogithub.site/categories/index.html</loc>
     
     <lastmod>2023-07-12</lastmod>
     
@@ -263,7 +272,7 @@
   </url>
   
   <url>
-    <loc>http://hexogithub.site/categories/index.html</loc>
+    <loc>http://hexogithub.site/tags/index.html</loc>
     
     <lastmod>2023-07-12</lastmod>
     
@@ -274,7 +283,7 @@
 
   <url>
     <loc>http://hexogithub.site/</loc>
-    <lastmod>2023-07-20</lastmod>
+    <lastmod>2023-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -284,21 +293,21 @@
   
   <url>
     <loc>http://hexogithub.site/categories/ChatGPT-Plus/</loc>
-    <lastmod>2023-07-20</lastmod>
+    <lastmod>2023-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://hexogithub.site/categories/ChatGPT-HR/</loc>
-    <lastmod>2023-07-20</lastmod>
+    <lastmod>2023-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://hexogithub.site/categories/ChatGPT/</loc>
-    <lastmod>2023-07-20</lastmod>
+    <lastmod>2023-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
